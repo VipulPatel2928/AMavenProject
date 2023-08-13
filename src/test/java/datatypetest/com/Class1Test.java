@@ -1,5 +1,17 @@
 package datatypetest.com;
 
+import wrapperclasstest.com.WrpperClassPractice;
+
+/**
+ * @author Admin
+•The general rules for constructing names for variables (unique identifiers) are:
+• Names can contain letters, digits, underscores, and dollar signs
+• Names must begin with a letter
+• Names should start with a lowercase letter and it cannot contain whitespace
+• Names can also begin with $ and _ (but we will not use it in this tutorial)
+• Names are case sensitive ("myVar" and "myvar" are different variables)
+• Reserved words (like Java keywords, such as int or boolean) cannot be used as names		
+ */
 public class Class1Test {
 
 	public static void main(String[] args) {
@@ -78,9 +90,10 @@ public class Class1Test {
 		}
 		else {
 			System.out.println("Character is not A ");
-		}
+		}	
 		
-		
+		 System.out.println(WrpperClassPractice.areaOfACircle(2.2));
+		 
+		 System.out.println(WrpperClassPractice.areaOfACircle(6.5));
 	}
-
 }
