@@ -1,0 +1,30 @@
+1. write the code for the following:   
+Check if the given string is palindrome or not.
+Check if the given integer is palindrome or not.
+
+2. Write a program to reverse a number(eg. 1234 to 4321) without using the modulus operator.
+
+3. Write a program , if I have a float value 12345.4566, I want to extract only 4566 (ie., the value after dot)
+
+4. X ="Good Looking"[User input]. Have to find unique characters cout. Should not any duplicate.
+For Ex. g - 2; o - 4; d - 1; l - 1; k - 1; i - 1; n-1. [Have to print like this]
+
+5. Write a code to Reverse a String. Without using any builtin functions like reverse(), charAt()
+
+6. Write a program to validate the credit card number having the following pattern:[2312] [932E] [12AB]
+
+7. Write a Program  on reverse the string on like blow the this. Str = " My School is ABC" Expected : "CBA si loohcs yM"
+
+8. Write a program for, In a paragraph, I have to extract the following things: Get only numbers,Get only alphabets,Get only alpha-numerics,Get only spaces and Get only special characters.
+
+9. Write Code: Find the repeated words in a given string. Also consider the logic in such a way that it will work for all string.
+   I am Indian, I am proud to be an Indian, Indian people are culture riched. 
+
+10. Write a program,
+Tommy attending an Interview while Bob Studying,
+Reverse only the words that are in Even number in the above sentence
+Odd number words should remain the same
+
+11. Write a program to add these two values $4,999.45 and $50,852.15
+
+

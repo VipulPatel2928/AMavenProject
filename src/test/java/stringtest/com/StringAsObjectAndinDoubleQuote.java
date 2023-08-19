@@ -6,6 +6,8 @@ public class StringAsObjectAndinDoubleQuote {
 		
 		// String is immutable
 		
+		String pString = "//button[text()=\" Add \"]";
+		
 		String proggramingLanguageName1 = "Java";
 		String proggramingLanguageName2 = "Java";
 		
