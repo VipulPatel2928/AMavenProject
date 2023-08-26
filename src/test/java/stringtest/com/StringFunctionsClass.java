@@ -71,5 +71,9 @@ public class StringFunctionsClass {
 		System.out.println(str10.contains("programming"));
 		System.out.println(str10.contains("Programming"));
 		
+		
+		String str11 = "Java-a-Programming-Programming";
+		System.out.println(str11.replaceAll("-", "/"));
+		
 	}
 }
