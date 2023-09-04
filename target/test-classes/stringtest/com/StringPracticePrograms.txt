@@ -3,6 +3,7 @@ Check if the given string is palindrome or not.
 Check if the given integer is palindrome or not.
 
 2. Write a program to reverse a number(eg. 1234 to 4321) without using the modulus operator.
+2.1 Write a program to reverse a number(eg. 1234 to 4321) using modulus operator only, Not allow to use any built in function.
 
 3. Write a program , if I have a float value 12345.4566, I want to extract only 4566 (ie., the value after dot)
 
