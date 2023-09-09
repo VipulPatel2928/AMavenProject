@@ -80,6 +80,7 @@ public class DateTimeClass {
 		int age = 46;
 		int y = 46;
 		int years = 46;
+		float PI = 3.14f;
 
 		Date date = new Date();
 
