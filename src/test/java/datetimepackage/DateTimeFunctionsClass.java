@@ -152,8 +152,5 @@ public class DateTimeFunctionsClass {
 		System.out.println(pastDate("dd-MM-yyyy", "Days" , 2));
 		System.out.println(pastDate("dd/MM/yyyy", "Months" , 2));
 		System.out.println(pastDate("dd/MM/yyyy", "Years" , 2));
-		
-		
 	}
-
 }
