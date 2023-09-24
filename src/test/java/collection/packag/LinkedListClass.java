@@ -60,6 +60,8 @@ public class LinkedListClass {
 		arrayList.add("Black");
 		arrayList.add("Black");
 		arrayList.add("Yellow");
+		arrayList.add(null);
+		arrayList.add(null);
 		
 		for(int i=0;i<arrayList.size();i++) {
 			System.out.println(arrayList.get(i));
