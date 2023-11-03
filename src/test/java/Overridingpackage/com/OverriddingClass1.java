@@ -1,6 +1,8 @@
 package Overridingpackage.com;
 
 public class OverriddingClass1 {
+	public int i;
+	public int j;
    //Over riding is also know as Late binding or run time binding
 	
 	public void display() {

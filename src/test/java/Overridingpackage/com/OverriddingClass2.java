@@ -1,7 +1,7 @@
 package Overridingpackage.com;
 
 public class OverriddingClass2 extends OverriddingClass1{
-
+  public String nameString;
 	@Override
 	public void display() {
 		System.out.println("Display method of OverriddingClass2");
